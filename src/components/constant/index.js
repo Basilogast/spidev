@@ -81,7 +81,7 @@ const cards = [
   {
     projectName: "ACCOUNT EXECUTIVE'S PERSONAL PORTFOLIO",
     number: "001",
-    link: "https://basilogast.github.io/NguyenDoThienAn/",
+    link: "https://annguyen.vercel.app/",
     description: "A personal portfolio for an account executive to display her projects for future employers",
     img: work1,
   },
